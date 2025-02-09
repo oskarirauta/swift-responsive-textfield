@@ -12,7 +12,7 @@ let package = Package(
             targets: ["ResponsiveTextField"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/oskarirauta/combine-schedulers.git", from: "1.0.6")
+        .package(url: "https://github.com/oskarirauta/combine-schedulers.git", from: "1.0.8")
     ],
     targets: [
         .target(

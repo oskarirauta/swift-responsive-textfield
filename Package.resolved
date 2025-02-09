@@ -5,26 +5,26 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/oskarirauta/combine-schedulers.git",
       "state" : {
-        "revision" : "685b2e1bae1a73bcfd0734b5b110405df2f4a098",
-        "version" : "1.0.6"
+        "revision" : "0858c03f3c6d1b81fe301c25efa773b145de3439",
+        "version" : "1.0.8"
       }
     },
     {
       "identity" : "swift-concurrency-extras",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-concurrency-extras",
+      "location" : "https://github.com/oskarirauta/swift-concurrency-extras",
       "state" : {
-        "revision" : "82a4ae7170d98d8538ec77238b7eb8e7199ef2e8",
-        "version" : "1.3.1"
+        "revision" : "ce97dd3772a89ac1309c808a935d4aca287af4c7",
+        "version" : "1.3.2"
       }
     },
     {
-      "identity" : "xctest-dynamic-overlay",
+      "identity" : "swift-issue-reporting",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "location" : "https://github.com/oskarirauta/swift-issue-reporting",
       "state" : {
-        "revision" : "b444594f79844b0d6d76d70fbfb3f7f71728f938",
-        "version" : "1.5.1"
+        "revision" : "825abde0a626b4480cf04533f82fe938d1b3d862",
+        "version" : "1.5.2"
       }
     }
   ],
