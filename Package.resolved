@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/oskarirauta/combine-schedulers.git",
       "state" : {
-        "revision" : "e68a29ee1caa098549a9e969f3dc6c7e0c9d4c77",
-        "version" : "1.0.5"
+        "revision" : "685b2e1bae1a73bcfd0734b5b110405df2f4a098",
+        "version" : "1.0.6"
       }
     },
     {
