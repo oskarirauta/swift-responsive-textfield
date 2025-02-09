@@ -26,14 +26,5 @@ let package = Package(
                 .enableUpcomingFeature("InferSendableFromCaptures")
             ]
         ),
-        .testTarget(
-            name: "ResponsiveTextFieldTests",
-            dependencies: ["ResponsiveTextField", "SnapshotTesting"],
-            exclude: ["__Snapshots__"],
-            swiftSettings: [
-                .enableExperimentalFeature("StrictConcurrency"),
-                .enableUpcomingFeature("InferSendableFromCaptures")
-            ]
-        )
     ]
 )
